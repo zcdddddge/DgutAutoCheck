@@ -1,6 +1,6 @@
 {
     "SendEmailIfAnyFail": true,    // 如存在失败打卡记录，失败后是否发送邮件
-    "From": "Example@example.com", // 发件邮箱
+    "From": "1786308334@qq.com", // 发件邮箱
     "To": "",                      // 收件邮箱，留空为收发邮箱相同
     "SmtpPassword": "password",    // smtp服务密码
     "SmtpServer": "example.com",   // smtp服务器
